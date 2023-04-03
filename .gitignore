@@ -1,3 +1,11 @@
+#data files to ignore
+
+*.csv
+*.xlsx
+*.xls
+*.zip
+*.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
